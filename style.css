@@ -1,0 +1,39 @@
+.div1 {
+    background-color: rgb(228, 227, 227);
+    padding: 20px;
+    text-align: justify;
+    border: 5px solid rgb(70, 69, 69);
+    width: 15%;
+    height: 25%;
+    margin: 0% 33.3% 5% 33.3%;
+}
+
+
+.div2 {
+    background-color: rgb(228, 227, 227);
+    padding: 30px;
+    text-align: justify;
+    border: 5px dashed darkgrey;
+    width: 25%;
+    height: 25%; 
+    margin-left: 71%;
+    margin-bottom: 20px;
+}
+
+.div3 {
+    background-color: rgb(228, 227, 227);
+    padding: 0px 15px 20px 30px;
+    text-align: justify;
+    border-right: 15px double rgb(78, 78, 78);
+    width: 25%;
+    height: 25%; 
+    margin: 30px 71% 20px 0px;
+}
+
+.div4 {
+    background-color: rgb(228, 227, 227);
+    padding: 15px 5px 15px 5px;
+    border-top: 3px dashed grey;
+    border-bottom: 5px dashed rgb(77, 77, 77);
+    margin: 0px 10% 0px 10%;
+}
