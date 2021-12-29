@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(219, 219, 219);
+    font-family: 'Times New Roman', Times, serif;
+    }
+
+p {
+    display: inline-block;
+    box-sizing: border-box;
+    border: 3px solid grey;
+    padding: 15px 10px 15px 10px;
+    margin-left: -4px;
+    width: 33%;
+}
+
