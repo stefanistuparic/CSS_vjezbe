@@ -1,0 +1,15 @@
+.wrapper-flexcontainer {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.flex-item {
+    background-color: rgb(202, 202, 202);
+    border: 0.5px solid black;
+    width: 20%;
+    height: 50em;
+    margin: 20px;
+    padding: 50px;
+} 
