@@ -53,7 +53,7 @@ div:nth-child(3):hover {
 }
 
 div:nth-child(4) {
-  transition: height 4s transform 4s backgrund-color 2s;
+  transition: height 4s, transform 4s, backgrund-color 4s;
 }
 
 div:nth-child(4):hover {
