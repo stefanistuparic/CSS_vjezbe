@@ -138,20 +138,13 @@ h1 {
 }
 
 @keyframes animacija6 {
-  0% {
-    width: 100px;
-    height: 100px;
-  }
-
+  0% {}
   50% {
-    width: 120px;
-    height: 120px;
-    font-size: 2em;
+    transform: scale(1.5);
     position: relative;
   }
   100% {
-    width: 100px;
-    height: 100px;
+    transform: scale(1);
   }
 }
 
